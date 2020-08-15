@@ -4,10 +4,8 @@
 
 <!-- layout: home -->
 layout: page
-<!-- title: Yukai Zou -->
+title: Yukai Zou
 ---
-
-# Yukai Zou
 
 Research Fellow in Advanced Neuroimaging  
 Faculty of Medicine, University of Southampton  
