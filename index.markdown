@@ -4,7 +4,7 @@
 
 <!-- layout: home -->
 layout: page
-<!-- title: Yukai Zou -->
+title: Yukai Zou
 ---
 
 Research Fellow in Advanced Neuroimaging  
