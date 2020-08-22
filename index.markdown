@@ -14,7 +14,6 @@ Southampton, SO16 6 YD
 United Kingdom  
 E-mail: <a href="mailto:ykzou.soton@outlook.com">ykzou.soton@outlook.com</a>
 
-
 ---
 # Education
  - Ph.D. Biomedical Engineering, Weldon School of Biomedical Engineering, Purdue University. My supervisor is [Prof. Joseph Rispoli](https://engineering.purdue.edu/BME/People/ptProfile?resource_id=127345). Started in Fall 2016, passed Qualifying Exam in Fall 2017, passed Preliminary Exam in Summer 2019, defended thesis in Summer 2020.
