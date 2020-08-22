@@ -7,26 +7,27 @@ layout: page
 title: Yukai Zou
 ---
 
-Research Fellow in Advanced Neuroimaging  
-Faculty of Medicine, University of Southampton  
+Research Fellow
+University of Southampton  
 Southampton General Hospital  
 Southampton, SO16 6 YD  
 United Kingdom  
-E-mail: <a href="mailto:yukaizou2012@gmail.com">yukaizou2012@gmail.com</a>
+E-mail: <a href="mailto:ykzou.soton@outlook.com">ykzou.soton@outlook.com</a>
 
 ---
 # Education
  - Ph.D. Biomedical Engineering, Weldon School of Biomedical Engineering, Purdue University. My supervisor is [Prof. Joseph Rispoli](https://engineering.purdue.edu/BME/People/ptProfile?resource_id=127345). Started in Fall 2016, passed Qualifying Exam in Fall 2017, passed Preliminary Exam in Summer 2019, defended thesis in Summer 2020.
       - Dissertation: “*Developing Population-Specific Brain Atlases and Monitoring Repetitive Head Impacts for Early-to-Middle Adolescent Collision-Sport Athletes*”[[link](https://doi.org/10.25394/PGS.12749267.v1)]
  - M.S. Biomedical Imaging, Department of Radiology and Biomedical Imaging, UCSF
- - B.S. Biotechnology (Minor in Sociology), Department of Biology, Hong Kong Baptist University
+ - B.S. Applied Biology - Biotechnology (Minor in Sociology), Department of Biology, Hong Kong Baptist University
 
 # Areas of Interest
  - Magnetic Resonance Imaging
  - Neuroinformatics
+ - Multiple Sclerosis and Brain Haemorrhage
+ - Neonatal and Paediatric Neurology
  - Traumatic Brain Injury
  - Drug and Substance Abuse
-
 
 # Peer-reviewed Publications
  - **Yukai Zou**, Ikbeom Jang, Timothy G. Reese, Jinxia Yao, Wenbin Zhu, Joseph V. Rispoli, "Cortical and Subcortical Contributions to Predicting Intelligence using 3D ConvNets," *Chapter 21 in Lecture Notes in Computer Science, Vol. 11791: Adolescent Brain Cognitive Development Neurocognitive Prediction*, Kilian M. Pohl, Wesley K. Thompson, Ehsan Adeli, Marius George Linguraru, eds., Cham, Springer International Publishing, 2019. [[link](https://doi.org/10.1007/978-3-030-31901-4_21)]
