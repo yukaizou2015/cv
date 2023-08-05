@@ -7,14 +7,16 @@ layout: page
 title: Yukai Zou
 ---
 
-Research Fellow  
-University of Southampton  
-Southampton General Hospital  
-Southampton, SO16 6 YD  
+MRI Clinical Scientist Trainee  
+University Hospital Southampton NHS Foundation Trust  
+Southampton, SO16 6YD  
 United Kingdom  
-E-mail: <a href="mailto:ykzou.soton@outlook.com">ykzou.soton@outlook.com</a>
+E-mail: <a href="mailto:yukai.zou@uhs.nhs.uk">Yukai.Zou@uhs.nhs.uk</a>
 
 ---
+
+My full CV may be accessed as a [PDF](https://drive.google.com/file/d/1Jj9KV0A_DXpqEqSTyWH5TLz-AxEH4dwx/view?usp=drive_link) file.
+
 # Education
  - Ph.D. Biomedical Engineering, Weldon School of Biomedical Engineering, Purdue University. My supervisor is [Prof. Joseph Rispoli](https://engineering.purdue.edu/BME/People/ptProfile?resource_id=127345). Started in Fall 2016, passed Qualifying Exam in Fall 2017, passed Preliminary Exam in Summer 2019, defended thesis in Summer 2020.
       - Dissertation: “*Developing Population-Specific Brain Atlases and Monitoring Repetitive Head Impacts for Early-to-Middle Adolescent Collision-Sport Athletes*”[[link](https://doi.org/10.25394/PGS.12749267.v1)]
@@ -74,9 +76,6 @@ E-mail: <a href="mailto:ykzou.soton@outlook.com">ykzou.soton@outlook.com</a>
  - International Society for Magnetic Resonance in Medicine (ISMRM) (2016-present)
  - Medical Image Computing and Computer Assisted Interventions Society (MICCAI) (2019-present)
  - Organization for Human Brain Mapping (2017-present)
- 
-# Personal
- - [BoilerKai](https://boilerkai.wordpress.com/)
  
 # Links
  - [Google Scholar](https://scholar.google.com/citations?user=n1RVi9sAAAAJ)
