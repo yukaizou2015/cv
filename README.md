@@ -1,3 +1,3 @@
-# About
+# CV
 
-This is the github repository of my personal homepage, which can be accesssed [here](https://yukaizou2015.github.io/homepage/).
+This is a repository for the web version of my Curriculum Vitae, powered by [Jekyll](https://jekyllrb.com/).
