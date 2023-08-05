@@ -4,7 +4,7 @@
 
 <!-- layout: home -->
 layout: page
-title: Yukai Zou
+title: Curriculum Vitae
 ---
 
 MRI Clinical Scientist Trainee  
